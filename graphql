@@ -1,0 +1,15 @@
+REST vs GraphQL
+page user{
+name;
+imag;
+}
+// REST
+api user{
+name;
+imag;
+email;
+day;
+created_at;
+skills;
+}
+//GraphQL
